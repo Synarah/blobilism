@@ -10,7 +10,10 @@ This demo implements a simple drawing program based on a circle brush.
 ## Results
 
 TODO: Put! images of what you've made here
-[Uploading HW#1.png…]()
+<img width="498" alt="HW#1" src="https://user-images.githubusercontent.com/112510953/216172085-87eb8d36-daef-4411-b04c-26cf2f04255b.png">
+
+
+
 ## How to build
 
 This project relies on [OpenGL 4.0](https://www.khronos.org/registry/OpenGL-Refpages/gl4/), [GLEW](http://glew.sourceforge.net/), and [GLFW](https://www.glfw.org/) builds using CMake. 
